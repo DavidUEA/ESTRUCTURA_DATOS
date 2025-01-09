@@ -1,0 +1,19 @@
+public class Rectangulo{
+    private double largo; 
+    private double ancho; 
+/// <summary>
+/// Constructor de la clase Rectangulo 
+/// ///sumary> 
+/// <param name ="_base">Ingrese el largo del rectangulo en decimales</param> 
+/// <param name="_altura">Ingrese el ancho del rectangulo en decimales</param> 
+    public Rectangulo(double _base, double _altura){ 
+    largo =_base; 
+    ancho =_altura; 
+/// csummary> 
+/// Devuelve un decimal con el area de un rectangulo 
+/// </sumary> 
+/// <returns>Decimal</returns> 
+    public double Area(){ 
+        return largo * ancho; 
+    } 
+}

@@ -1,0 +1,14 @@
+public class Circulo{ 
+    private double PI=3.1416; 
+    private double R2: 
+/// <summary> 
+/// Constructor de la clase 5 
+/// </summary> 
+/// <param name="r2">1ngrese un valor decimal del radio de un circulo</param> 
+    public Circulo(double _2){ 
+        R2=r2; 
+        } 
+    public double Area(){
+        return PI *R2; 
+    } 
+}

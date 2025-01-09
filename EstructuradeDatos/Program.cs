@@ -1,0 +1,16 @@
+﻿Console.WriteLine("+++++++++++++++++++++++++++++++++");
+Console.WriteLine("+ Universidad Estatal Amazónica +");
+Console.WriteLine("+++++++++++++++++++++++++++++++++");
+Console.WriteLine();
+Console.WriteLine("++++++ AREA DE FIGURAS ++++++++");
+Console.WriteLine();
+Console.WriteLine();
+Rectangulo rectangulo = new Rectangulo(20.5, 10.);
+Console.WriteLine("++++ Rectangulo ++++");
+Console.WriteLine("Area :" + rectangulo.Area());
+Console.WriteLine("Perimetro :");
+Console.WriteLine();
+Console.WriteLine();
+Console.WriteLine("++++ Circulo++++");
+Console.WriteLine();
+Console.WriteLine();
