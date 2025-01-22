@@ -1,7 +1,0 @@
-Console.WriteLine("+++++++++++++++++++++++++++++++++");
-Console.WriteLine("+ Universidad Estatal Amazónica +");
-Console.WriteLine("+++++++++++++++++++++++++++++++++");
-Console.WriteLine();          
-Console.WriteLine("++++++ AREA DE FIGURAS ++++++++");
-Console.WriteLine();
-Console.WriteLine();

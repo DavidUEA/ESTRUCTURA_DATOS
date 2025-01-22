@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repasos", "..\REPASOS\Repas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_6", "Semana_6\Semana_6.csproj", "{34309599-23C9-4400-8EA0-CE000AF59D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_6_2", "Semana_6_2\Semana_6_2.csproj", "{63122A97-7875-4853-9FF7-CEB462B6F0E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{34309599-23C9-4400-8EA0-CE000AF59D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34309599-23C9-4400-8EA0-CE000AF59D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34309599-23C9-4400-8EA0-CE000AF59D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63122A97-7875-4853-9FF7-CEB462B6F0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63122A97-7875-4853-9FF7-CEB462B6F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63122A97-7875-4853-9FF7-CEB462B6F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63122A97-7875-4853-9FF7-CEB462B6F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{09676E1D-F0D5-4055-82E1-68D063278F4D} = {379DB1B7-3896-4477-BF0F-D617B7B6FD04}
