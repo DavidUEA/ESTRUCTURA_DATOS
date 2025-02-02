@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_7", "Semana_7\Semana
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_7.1", "Semana_7.1\Semana_7.1.csproj", "{DEB5120E-789F-40E2-9414-1B83D88653EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental_2", "Experimental_2\Experimental_2.csproj", "{FBAD8860-1CA8-4C9D-A75B-23705BC00924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{DEB5120E-789F-40E2-9414-1B83D88653EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB5120E-789F-40E2-9414-1B83D88653EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB5120E-789F-40E2-9414-1B83D88653EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAD8860-1CA8-4C9D-A75B-23705BC00924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAD8860-1CA8-4C9D-A75B-23705BC00924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAD8860-1CA8-4C9D-A75B-23705BC00924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAD8860-1CA8-4C9D-A75B-23705BC00924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{09676E1D-F0D5-4055-82E1-68D063278F4D} = {379DB1B7-3896-4477-BF0F-D617B7B6FD04}
