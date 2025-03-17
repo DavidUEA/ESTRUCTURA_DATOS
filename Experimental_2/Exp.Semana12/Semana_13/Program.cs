@@ -10,12 +10,12 @@ class Program
         {
             "Innovación ", "Tecnología", "Hogar", "Aventuras",
             "Belleza", "Moda", "RHerramientas ", "Lectoras",
-            "Regalos", "Musicas"
+            "regalos", "Cumbias"
         };
 
         while (true)
         {
-            Console.WriteLine("\n--- Catálogo de revistas  ---");
+            Console.WriteLine("\n--- Catálogo de  ---");
             Console.WriteLine("1. Buscar un título");
             Console.WriteLine("2. Mostrar todos los títulos");
             Console.WriteLine("3. Salir");
